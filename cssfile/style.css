@@ -1,0 +1,32 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+nav{
+    text-align: center;
+}
+nav{
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+    nav ul li{
+        display: inline-block;padding: 10px;
+
+    }
+    nav ul li a{
+        color: white;   
+    }
+    nav ul li:hover a{
+        background-color:rgba(255, 255, 255, 0.482);
+        border-radius: 40px;width: 30px;
+    }
+    nav ul ol{
+        1
+    }
